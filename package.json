@@ -2,7 +2,7 @@
   "name": "dev.to",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/YOUR-REPO.git"
+    "url": "https://github.com/peterjgrainger/dev-to-posts.git"
   },
   "scripts": {
     "prettier": "prettier",

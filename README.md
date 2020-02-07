@@ -62,7 +62,7 @@ The following is simply a template that you may want to use for your own version
 
 # \<YOUR NAME\>'s blog source
 
-https://dev.to/\<YOUR DEV.TO NICKNAME\>
+https://dev.to/\peterjgrainger
 
 ## Blog posts
 
